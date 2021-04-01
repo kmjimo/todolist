@@ -3,7 +3,7 @@
 ## 環境構築
 ・Dockerfileの作成
 ・ymlファイルの作成
-・require.txtの作成
+・requirements.txtの作成
 
 
 ## プログラムについて
