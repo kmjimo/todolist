@@ -1,4 +1,4 @@
-# todolistアプリケーションの作成
+# todolistアプリケーションの作成(作成途中)
 
 ## 環境構築
 ・Dockerfileの作成
